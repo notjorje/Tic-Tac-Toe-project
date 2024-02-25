@@ -1,1 +1,1 @@
-Simple Tic Tac Toe app refactored using MVVM
+Simple Tic Tac Toe app refactored using MVVM.
